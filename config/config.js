@@ -25,8 +25,8 @@ export const navigation = {
 	],
 }
 export const intro = {
-	title: "Hey, I'm Hashir",
-	description: "A Computer Engineer creating mobile apps and static websites.",
+	title: "Horizon Route Incorporation.",
+	description: "To achieve recognition and growth through customer satisfaction.",
 	image: profile.src,
 	buttons: [
 		{
@@ -43,16 +43,16 @@ export const intro = {
 }
 
 export const about = {
-	title: "Who I am",
+	title: "About",
 	description: [
-		"I graduated from National University of Sciences and Technology (NUST) in 2020 with a degree in Computer Engineering. I kick started my professional career as a mobile application developer working remotely for a UK based startup — Lessgo.",
-		"The tech industry is ever-evolving and I love being able to grow with it, while continually solidifying the fundamentals. I opensource my code from a place of empathy - for future developers, teammates, users, and with accessibility in mind. I also love joining communities, helping and mentoring new developers, and supporting organizations to promote diversity in tech. I’m sharing my programming journey on instagram, helping people who are just getting into the space of programming.",
-		"When I’m not programming, I focus on my hobbies which are: diary writing, doodling, meeting people and growing my network.",
+		"Horizon Route Incorporation is based in Canada. The headquarter is located in Montreal, Quebec.",
+		"We offer Procurement Services for infrastructure, process and production plants including, but not limited to, chemicals, fertilizers, oil & gas and petrochemical plants.",
+		"To achieve recognition and growth through customer satisfaction.",
 	],
 }
 
 export const work = {
-	title: "What I do",
+	title: "Mission",
 	cards: [
 		{
 			title: "Mobile App Development",
